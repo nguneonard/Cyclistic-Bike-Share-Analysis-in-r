@@ -1,6 +1,6 @@
 # Cyclistic-Bike-Share-Analysis-in-r
 
-<p align="center">
+<p>
   <img src="https://github.com/nguneonard/Cyclistic-Bike-Share-Analysis-in-r/blob/main/Bicycle-sharing_systems.jpg"  title="hover text">
 </p>
 
