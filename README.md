@@ -15,25 +15,24 @@ janitor
 ggplot2
 knitr
 caret
-tidytext
+dplyr
+
 
 Once you have downloaded the required libraries, you can run the analysis in the Cyclistic-Bike-Share-Analysis.Rmd file.
 
 ## Data
 The data for this project is provided by Cyclistic and it includes the company's trip data 2021.
-<h2><a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Cyclistic-Bike-Share_data<br />
+<a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Cyclistic-Bike-Share_data<br /></a>
 
 
 ## Analysis
-The analysis is divided into three main sections: exploratory data analysis, feature engineering, and predictive modeling.
+The analysis is divided into three main sections: exploratory data analysis, feature engineering.
 
 In the exploratory data analysis section, we investigate the patterns and trends in the data by answering questions such as: What is the average trip duration? When are the peak hours for bike usage? What are the most popular bike stations?
 
 In the feature engineering section, we create new features based on the insights gained from the exploratory data analysis. For example, we create a new feature that indicates the day of the week and the hour of the day.
 
-In the predictive modeling section, we build a model that predicts whether a user is a casual rider or an annual member based on their trip data. We use several machine learning algorithms, including logistic regression, random forest, and gradient boosting.
-
-Results
+## Results
 The results of the analysis are presented in the Cyclistic-Bike-Share-Analysis.html file. The file includes all the code, visualizations, and explanations of the insights gained from the analysis.
 
 Conclusion
