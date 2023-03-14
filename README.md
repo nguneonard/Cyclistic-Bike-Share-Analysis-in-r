@@ -1,5 +1,7 @@
 # Cyclistic-Bike-Share-Analysis-in-r
 
+<a href="#" class="image main"><img src="images/bike.jpg" alt="",width="500" height="400" /></a>
+
 This project is a data analysis of the bike-share company, Cyclistic, that operates in the Chicago area. The company has a membership model that allows riders to sign up for annual membership, casual pass or single ride depending on their frequency of bike usage.
 
 The aim of this project is to help Cyclistic executives understand how casual riders and annual members use Cyclistic bikes differently. By understanding these differences, the company can use that insights to convert casual riders into annual members.
