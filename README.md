@@ -1,7 +1,7 @@
 # Cyclistic-Bike-Share-Analysis-in-r
 
 <p align="center">
-  <img src="https://github.com/nguneonard/Big-Mart-Sales-Prediction/blob/main/bignart1-thumbnail-1200x1200.png"  title="hover text">
+  <img src="https://github.com/nguneonard/Cyclistic-Bike-Share-Analysis-in-r/blob/main/Bicycle-sharing_systems.jpg"  title="hover text">
 </p>
 
 This project is a data analysis of the bike-share company, Cyclistic, that operates in the Chicago area. The company has a membership model that allows riders to sign up for annual membership, casual pass or single ride depending on their frequency of bike usage.
