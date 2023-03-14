@@ -35,8 +35,8 @@ In the feature engineering section, we create new features based on the insights
 ## Results
 The results of the analysis are presented in the Cyclistic-Bike-Share-Analysis.html file. The file includes all the code, visualizations, and explanations of the insights gained from the analysis.
 
-Conclusion
+## Conclusion
 In conclusion, this project provides valuable insights into how casual riders and annual members use Cyclistic bikes differently. The analysis shows that annual members use the bikes more frequently and for shorter durations than casual riders. Based on these insights, Cyclistic can create targeted marketing campaigns to convert casual riders into annual members.
 
-Acknowledgments
+## Acknowledgments
 This project was carried out as part of the Google Data Analytics Professional Certificate course on Coursera. Special thanks to the instructors and mentors for their guidance and support throughout the course.
